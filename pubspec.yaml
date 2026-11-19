@@ -1,0 +1,33 @@
+name: melo
+description: "简易个人记账本（本地存储版）—— shared_preferences + sqflite + 文件存储 三链路演示"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # 本地数据存储三链路
+  sqflite: ^2.4.1
+  # 桌面端（Windows）调试用：内置 sqlite3.dll 的 FFI 实现
+  sqflite_common_ffi: 2.3.3
+  # 与上面的 ffi 版本配套，3.x 起改用 native assets 编译，暂不适用
+  sqlite3: ^2.4.0
+  shared_preferences: ^2.3.4
+  path_provider: ^2.1.5
+  path: ^1.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
