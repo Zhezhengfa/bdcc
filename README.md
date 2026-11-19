@@ -19,6 +19,12 @@
 
 ## 下载安装
 
+<p align="center">
+  <img src="screenshots/apk_download_qr.png" width="200" alt="APK 下载二维码"/>
+  <br/>
+  <em>手机扫码下载 APK（微信内扫码后请选择「在浏览器打开」）</em>
+</p>
+
 - APK 直链：[melo-v1.0.0.apk](https://github.com/Zhezhengfa/bdcc/releases/download/v1.0.0/melo-v1.0.0.apk)
 - 发布页面：[Releases](https://github.com/Zhezhengfa/bdcc/releases)
 - 签名：debug keystore，仅供课程演示与真机测试，不可上架
