@@ -17,6 +17,13 @@
   <em>首页</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>记录详情</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>个人中心</em>
 </p>
 
+## 下载安装
+
+- APK 直链：[melo-v1.0.0.apk](https://github.com/Zhezhengfa/bdcc/releases/download/v1.0.0/melo-v1.0.0.apk)
+- 发布页面：[Releases](https://github.com/Zhezhengfa/bdcc/releases)
+- 签名：debug keystore，仅供课程演示与真机测试，不可上架
+- SHA256：`967920456D54CA30D44E2F27D4ED3781C3646E35244720B5A6F5E32BC0F80F43`
+
 ## 功能
 
 - **首页**：本月收入 / 支出 / 结余统计，记账记录按时间倒序展示，右下角「记一笔」
