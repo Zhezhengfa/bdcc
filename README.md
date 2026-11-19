@@ -8,11 +8,13 @@
 ## 界面预览
 
 <p align="center">
-  <img src="screenshots/01_home.png" width="240" alt="首页"/>
+  <img src="screenshots/01_home.png" width="220" alt="首页"/>
   &nbsp;
-  <img src="screenshots/02_detail.png" width="240" alt="记录详情"/>
+  <img src="screenshots/02_detail.png" width="220" alt="记录详情"/>
+  &nbsp;
+  <img src="screenshots/03_profile.png" width="220" alt="个人中心"/>
   <br/>
-  <em>首页（本月收支统计 + 记录列表）</em>&nbsp;&nbsp;&nbsp;<em>记录详情</em>
+  <em>首页</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>记录详情</em>&nbsp;&nbsp;&nbsp;&nbsp;<em>个人中心</em>
 </p>
 
 ## 功能
